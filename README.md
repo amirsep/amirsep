@@ -16,5 +16,5 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/mohammad-amir-62609329/"><img alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/mohammad-amir-62609329/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammad%20Amir-blue?style=flat-square&logo=linkedin"></a>
 
