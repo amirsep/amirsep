@@ -1,6 +1,4 @@
 <h2> Hi there, I'm Mohammad Amir👦, </h2>
-
-
 <strong>- 👨‍💻 React JS Developer </strong>
 
 <hr/>
