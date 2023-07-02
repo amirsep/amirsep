@@ -32,10 +32,10 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<h3 align="center">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/mohammad-amir-62609329/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammad%20Amir-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/amirvmohd/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-amirvmohd-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:amir.sep19@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-amir.sep19@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</h3>
+</p>
 
