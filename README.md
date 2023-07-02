@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Mohammad Amir👦, </h1>
+<h2> Hi there, I'm Mohammad Amir👦, </h2>
 
 
 - 👨‍💻 React JS Developer
