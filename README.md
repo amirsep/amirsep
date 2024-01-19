@@ -35,6 +35,8 @@
 <a  target="_blank"> <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black " alt="alt"/> </a> 
 
 <a  target="_blank"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white " alt="alt"/> </a> 
+
+<a  target="_blank"> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white " alt="alt"/> </a> 
  
 
 
