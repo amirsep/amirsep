@@ -76,6 +76,8 @@
 <a  target="_blank"> <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white " alt="alt"/> </a> 
 <a  target="_blank"> <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white " alt="alt"/> </a> 
 
+</br>
+</br>	
 
 
 
